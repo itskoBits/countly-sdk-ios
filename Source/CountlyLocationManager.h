@@ -5,6 +5,7 @@
 // Please visit www.count.ly for more information.
 
 #import <Foundation/Foundation.h>
+#import <CoreLocation/CoreLocation.h>
 
 @interface CountlyLocationManager : NSObject
 @property (nonatomic, copy) NSString* location;
